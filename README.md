@@ -8,7 +8,8 @@ Make sure you create a branch for yourself, and after you do your changes\
 
 ## Requirements
 
-1- Create an __init__.py file for the math_utility and string_utility modules\
+1- Create an 
+.py file for the math_utility and string_utility modules\
 so that we can import their content more neatly and easily.\
 2- In the mult.py module, import the edit method from printing.py.\
 3- In the concatenation.py module import the addition method from the add.py.\
